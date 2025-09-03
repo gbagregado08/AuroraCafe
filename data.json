@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Espresso",
+    "desc": "Rich, syrupy shot with caramel finish.",
+    "price": 3.5
+  },
+  {
+    "name": "Latte",
+    "desc": "Silky milk, velvety mouthfeel.",
+    "price": 4.5
+  },
+  {
+    "name": "Cold Brew",
+    "desc": "Slow steeped, chocolate notes.",
+    "price": 4.0
+  },
+  {
+    "name": "Matcha",
+    "desc": "Stone-ground Uji matcha.",
+    "price": 4.75
+  }
+]
